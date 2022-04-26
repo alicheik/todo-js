@@ -1,4 +1,4 @@
-# Webpack configurado
+# Aplicacion ToDo
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
